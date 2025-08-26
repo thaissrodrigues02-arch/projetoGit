@@ -1,1 +1,1 @@
-Você está na versão branch master, sejam bem-vindos!
+Agora está na versão branch teste.
